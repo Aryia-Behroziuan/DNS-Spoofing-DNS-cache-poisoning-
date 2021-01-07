@@ -1,0 +1,2 @@
+# DNS-Spoofing-DNS-cache-poisoning-
+This hacking technique injects corrupt domain system data into a DNS resolver’s cache to redirect where a website’s traffic is sent. It is often used to send traffic from legitimate websites to malicious websites that contain malware. DNS spoofing can also be used to gather information about the traffic being diverted. The best techniques for preventing DNS spoofing is to set short TTL times and regularly clear the DNS caches of local machines.
